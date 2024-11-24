@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/MAINTAINER-%40jaruba-red?style=for-the-badge)](https://github.com/jaruba)
 [![](https://img.shields.io/badge/COMMUNITY-FORUM-success?style=for-the-badge)](https://community.home-assistant.io)
 
-# HomeAssistant - SamsungTV Tizen Component
+# HomeAssistant - by jayanth
 
 This is a custom component to allow control of SamsungTV devices in [HomeAssistant](https://home-assistant.io). Is a modified version of the built-in [samsungtv](https://www.home-assistant.io/integrations/samsungtv/) with some extra features.<br/>
 **This plugin is only for 2016+ TVs model!** (maybe all tizen family)
